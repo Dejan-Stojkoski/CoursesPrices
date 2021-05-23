@@ -1,0 +1,42 @@
+.popupTable {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+.popupTable th {
+    vertical-align: middle;
+    background-color: #002c5f;
+    color: white;
+    border: solid #CCCCCC;
+    border-width: 1px;
+    padding: 12px 10px;
+    width: 1%;
+}
+
+.popupTable tr td {
+    border: solid #CCCCCC;
+    border-width: 1px;
+    padding: 12px 10px;
+    width: 1%;
+}
+
+.popupTable td a{
+    text-decoration: none;
+}
+
+.popupTable td a:link{
+    color: black;
+}
+
+.popupTable td a:visited{
+    color: black;
+}
+
+.popupTable td a:hover{
+    color: #85a9ec;
+}
+
+.popupTable td a:active{
+    color: #85a9ec;
+}
